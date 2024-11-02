@@ -1,2 +1,2 @@
 .DS_Store
-.word2vec
+glove.6B.100d.txt.word2vec
