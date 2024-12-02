@@ -1,8 +1,10 @@
 # Stock Market News Sentiment Analysis and Summarization
 
+## Project Overview
+
 The prices of the stocks of companies listed under a global exchange are influenced by a variety of factors, with the company's financial performance, innovations and collaborations, and market sentiment being factors that play a significant role. News and media reports can rapidly affect investor perceptions and, consequently, stock prices in the highly competitive financial industry. With the sheer volume of news and opinions from a wide variety of sources, investors and financial analysts often struggle to stay updated and accurately interpret its impact on the market. As a result, investment firms need sophisticated tools to analyze market sentiment and integrate this information into their investment strategies.
 
-Grade: xx/60
+Grade: 60/60
 
 ## Objective
 
